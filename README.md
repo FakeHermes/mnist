@@ -1,0 +1,2 @@
+# mnist
+homework,mnist,sklearn
